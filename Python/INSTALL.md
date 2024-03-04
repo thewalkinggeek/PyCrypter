@@ -4,10 +4,9 @@
 
 
 # Install Dependencies
+pip install wxpython
 
-pip install pywinstyles
 pip install cryptography
 
 # Run
-
 python pycrypter.py
