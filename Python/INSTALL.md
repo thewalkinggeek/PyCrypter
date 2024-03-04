@@ -1,7 +1,7 @@
 # PyCrypter - A File Encryption Utility
 
 # Install Dependencies
-pip install wxpython
+pip install -U wxpython
 
 pip install cryptography
 
