@@ -1,6 +1,6 @@
 # PyCrypter - A File Encryption Utility
 # 
-# Written by Jon Schoenberger
+Written by Jon Schoenberger
 
 
 # Install Dependencies
