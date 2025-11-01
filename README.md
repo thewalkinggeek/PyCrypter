@@ -12,7 +12,7 @@ PyCrypter is a secure 128-bit AES file encryption utility that can be used to ob
 4.  Click **"Decrypt"** to decrypt the file.
 
 > [!WARNING]  
-> The program creates a keyfile token (keyfile.key) that should be kept private and is required to decrypt your files.
+> The program creates a keyfile token (keyfile.key) that should be kept private and is required to decrypt your files.  Please keep this key safe!
 
 ## License
 
@@ -22,6 +22,7 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3).
 
 
 *Copyright © 2025 Jonathan Schoenberger*
+
 
 
 
